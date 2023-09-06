@@ -1,0 +1,4 @@
+D:\ITPlus\BTVN_Buoi2\obj\Debug\net7.0\BTVN_Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITPlus\BTVN_Buoi2\obj\Debug\net7.0\BTVN_Buoi2.AssemblyInfoInputs.cache
+D:\ITPlus\BTVN_Buoi2\obj\Debug\net7.0\BTVN_Buoi2.AssemblyInfo.cs
+D:\ITPlus\BTVN_Buoi2\obj\Debug\net7.0\BTVN_Buoi2.csproj.CoreCompileInputs.cache
