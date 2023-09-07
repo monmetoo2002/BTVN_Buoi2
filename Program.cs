@@ -27,7 +27,7 @@ class Buoi2
     private static string Bai1(int[] input)
     {
         //Xử lý kết quả dựa theo đầu vào input rồi gán vào biến result
-        int result = -1;
+        int result = -2;
         return "" + result;
     }
 
