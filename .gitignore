@@ -1,6 +1,5 @@
 
 *.vsidx
-*.v2
 *.dll
 *.bin
 *.json
@@ -8,9 +7,7 @@
 *.pdb
 *.txt
 *.cache
-*.txt
 *.BuildWithSkipAnalyzers
-*.txt
 *.exe
 .vs/BTVN_Buoi2/DesignTimeBuild/.dtbcache.v2
 .vs/BTVN_Buoi2/v17/.suo
