@@ -1,2 +1,17 @@
 
 *.vsidx
+*.v2
+*.dll
+*.bin
+*.json
+*.v2
+*.pdb
+*.txt
+*.cache
+*.txt
+*.BuildWithSkipAnalyzers
+*.txt
+*.exe
+.vs/BTVN_Buoi2/DesignTimeBuild/.dtbcache.v2
+.vs/BTVN_Buoi2/v17/.suo
+obj/Debug/net7.0/BTVN_Buoi2.csproj.FileListAbsolute.txt
