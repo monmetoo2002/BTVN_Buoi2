@@ -86,7 +86,7 @@ class Buoi2
                 Console.WriteLine(item.Key + " " + item.Value);
                 continue;
             }
-
+            
             if (highest == item.Value)
             {
                 Console.WriteLine(item.Key + " " + item.Value);
